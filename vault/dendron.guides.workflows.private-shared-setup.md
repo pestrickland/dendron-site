@@ -22,7 +22,7 @@ Create a blank worspace that will have [[multiple vaults|dendron.topic.multi-vau
 
 ### Start from scratch
 
-1. **Create a [[bare workspace|dendron.topic.workspace#concepts]]**. This workspace will be blank and contain all the needeed [[vaults|dendron.topic.vaults]] as well as the templates and configurations.
+1. **Create a [[bare workspace|dendron.topic.workspace#concepts]]**. This workspace will be blank and contain all the needed [[vaults|dendron.topic.vaults]] as well as the templates and configurations.
    ![[dendron.topic.workspace#bare-workspace:#*]]
    1. Run `Dendron: Initialize Workspace` command.
    2. Type the location where you want it to be stored
